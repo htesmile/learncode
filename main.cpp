@@ -8,6 +8,7 @@ int main()
     A.push_back(1);
     A.push_back(2);
     cout<<"hello world";
+    cout<<"not yet";
     system("pause");
     return 0;
 }
